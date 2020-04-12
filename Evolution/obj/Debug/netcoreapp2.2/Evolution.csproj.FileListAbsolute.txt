@@ -1,0 +1,14 @@
+C:\Users\kunge\source\repos\Evolution\Evolution\bin\Debug\netcoreapp2.2\Evolution.deps.json
+C:\Users\kunge\source\repos\Evolution\Evolution\bin\Debug\netcoreapp2.2\Evolution.runtimeconfig.json
+C:\Users\kunge\source\repos\Evolution\Evolution\bin\Debug\netcoreapp2.2\Evolution.runtimeconfig.dev.json
+C:\Users\kunge\source\repos\Evolution\Evolution\bin\Debug\netcoreapp2.2\Evolution.dll
+C:\Users\kunge\source\repos\Evolution\Evolution\bin\Debug\netcoreapp2.2\Evolution.pdb
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.csprojAssemblyReference.cache
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.csproj.CoreCompileInputs.cache
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.RazorAssemblyInfo.cache
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.RazorAssemblyInfo.cs
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.AssemblyInfoInputs.cache
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.AssemblyInfo.cs
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.RazorTargetAssemblyInfo.cache
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.dll
+C:\Users\kunge\source\repos\Evolution\Evolution\obj\Debug\netcoreapp2.2\Evolution.pdb

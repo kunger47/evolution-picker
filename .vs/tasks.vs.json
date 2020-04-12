@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Evolution",
+      "appliesTo": "Evolution.sln",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Evolution",
+      "appliesTo": "Evolution/Evolution.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
